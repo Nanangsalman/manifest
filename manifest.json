@@ -1,0 +1,38 @@
+{
+  "name": "Misterwew",
+  "short_name": "Misterwew",
+  "start_url": "https://www.misterwew.com/?m=1",
+  "display": "standalone",
+  "background_color": "#00d0fa",
+  "theme_color": "#2B0C93",
+  "description": "Bang Joss adalah Sebuah Blog Tutorial Internet Gratis Berbagi Config Terbaru Tempat Sharing Aplikasi, Tutorial Termux Dan Tips trik internet.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-vzt8ucUbRxE/XSf4eaun0sI/AAAAAAAAAus/nN4WYR5I9tICMHQbphUBkxnNN5kQiW9hQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vzt8ucUbRxE/XSf4eaun0sI/AAAAAAAAAus/nN4WYR5I9tICMHQbphUBkxnNN5kQiW9hQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vzt8ucUbRxE/XSf4eaun0sI/AAAAAAAAAus/nN4WYR5I9tICMHQbphUBkxnNN5kQiW9hQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vzt8ucUbRxE/XSf4eaun0sI/AAAAAAAAAus/nN4WYR5I9tICMHQbphUBkxnNN5kQiW9hQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vzt8ucUbRxE/XSf4eaun0sI/AAAAAAAAAus/nN4WYR5I9tICMHQbphUBkxnNN5kQiW9hQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vzt8ucUbRxE/XSf4eaun0sI/AAAAAAAAAus/nN4WYR5I9tICMHQbphUBkxnNN5kQiW9hQCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-372CVnU_uls/XSf5Q_qCsLI/AAAAAAAAAu0/pgyhUq45pL4nEa4S10e-b0qNELnREZn8wCLcBGAs/s1600/ms-icon-310x310.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
